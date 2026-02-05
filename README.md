@@ -10,6 +10,5 @@ I have learned Flutter development and built multiple mobile applications.
 - UI Design (Material UI)
 
 ### Projects
-- Flutter Grocery App
 - BMI Calculator App
 - Notes App
